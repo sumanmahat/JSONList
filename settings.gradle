@@ -1,0 +1,2 @@
+rootProject.name='JSONList'
+include ':app'
